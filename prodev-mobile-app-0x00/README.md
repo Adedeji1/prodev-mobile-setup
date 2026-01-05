@@ -48,12 +48,3 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-
-
-
-## what was Observed during the Reset
-
-- First a new empty folder was created {app-example}
-- Next I keep getting Errors saying i should have the folder renamed 
-- Tried it on multiple IDEs (GitBash, windows Powershell and CMD) but still the same result
-- Tried Another approach of removing the app-example and runing the prompt again but still the same
